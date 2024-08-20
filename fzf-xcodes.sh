@@ -190,13 +190,13 @@ function fzf-xcodes() {
 
   local fzf-xcodes-runtimes-install() {
     local runtime=$(__get_runtimes "" "install")
-    xcodes runtimes install "$runtime"
+    sudo xcodes runtimes install "$runtime"
     return 0
   }
 
   local fzf-xcodes-runtimes-install-betas() {
     local runtime=$(__get_runtimes "--include-betas" "install")
-    xcodes runtimes install --include-betas "$runtime"
+    sudo xcodes runtimes install --include-betas "$runtime"
     return 0
   }
 
