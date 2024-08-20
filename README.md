@@ -17,6 +17,8 @@
 
 This is a shell plugin that allows you to execute [`XcodesOrg/xcodes`](https://github.com/XcodesOrg/xcodes) commands using keyboard shortcuts utilizing [`junegunn/fzf`](https://github.com/junegunn/fzf) and [`XcodesOrg/xcodes`](https://github.com/XcodesOrg/xcodes).
 
+![fzf-xcodes-demo](fzf-xcodes-demo.gif)
+
 ## Installation
 
 ### Install [junegunn/fzf](https://github.com/junegunn/fzf) using Homebrew
