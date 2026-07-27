@@ -35,10 +35,10 @@ Please refer to the [fzf official documentation](https://github.com/junegunn/fzf
 brew install xcodesorg/made/xcodes
 ```
 
-### Download [fzf-xcodes](https://github.com/gumob/fzf-xcodes) to your home directory
+### Download [fzf-xcodes](https://github.com/futamura/fzf-xcodes) to your home directory
 
 ```shell
-wget -O ~/.fzfxcodes https://raw.githubusercontent.com/gumob/fzf-xcodes/main/fzf-xcodes.sh
+wget -O ~/.fzfxcodes https://raw.githubusercontent.com/futamura/fzf-xcodes/main/fzf-xcodes.sh
 ```
 
 ### Usingsing key bindings
